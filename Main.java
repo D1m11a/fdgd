@@ -8,4 +8,4 @@ Editor.printShapeName(new Quad());
 Editor.printShapeName(new Rectangle());
 Editor.printShapeName(new Triangle());
 }
-}"
+}
